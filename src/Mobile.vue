@@ -24,10 +24,9 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘
-* 你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+* Hi there，我是i0Ek3
+* 这是我准备的简历
+* 希望可以让你眼前一亮！
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -128,36 +127,45 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `i0Ek3
 ----
 
-资深前端工程师，资深前端讲师
-现在在 [饥人谷](http://jirengu.com) 教前端课程。
-
-技能
-----
-
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
-
-工作经历
-----
-
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+ex-bugmaker，Open Sourcer，政府雇员。
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [GitHub](https://github.com/i0Ek3)
 
-> 如果你喜欢这个效果，
-Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+技能
+----
+
+* ~~简易~~后端开发
+* Golang/Python/Shell/C/C++ 开发
+* Linux/macOS/Vim/Git/Docker etc.
+* MySQL/Redis
+* A litte Rust/Lua 开发
+* 人工智~~障~~能
+
+工作经历
+----
+
+1. PJOE: HSE 
+2. XSKY: Gopher
+3. Gov.
+
+项目经历
+----
+
+1. deamon: Distribute Storage System.
+2. alphalgo: A series algorithm demos.
+3. IACM: An enhanced DPoS consensus algorigthm.
+4. m4: A tiny docker model simulation.
+5. co: A simple code obfuscation/deobfuscation tool.
+6. Jedi: A multi-resource selector.
+7. etc.
+
+> 如果你喜欢这个效果，欢迎 Fork [原作者项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
 
 `
       }
